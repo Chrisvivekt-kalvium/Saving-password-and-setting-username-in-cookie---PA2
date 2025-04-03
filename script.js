@@ -1,3 +1,4 @@
+
 const MIN = 100;
 const MAX = 999;
 const pinInput = document.getElementById('pin');
